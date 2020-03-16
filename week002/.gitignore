@@ -1,0 +1,21 @@
+# Build files
+*.o
+
+# Latex files
+*.aux
+*.bbl
+*.blg
+
+# VIM Files
+*.swp
+*.swo
+
+# Mac Files
+*DS_Store
+
+#Vscode Files settings
+.vscode
+
+# Prep/Quiz directories
+prep
+lecture01/quiz/
